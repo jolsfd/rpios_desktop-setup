@@ -17,6 +17,7 @@ change Theme by running `lxappearance`
 
 * arc-dark
 * papirus-icon-theme
+* adwita
 
 ## config Files
 
