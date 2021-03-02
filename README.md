@@ -34,5 +34,5 @@ File with old Hot keys `/etc/xdg/Openbox/lxde-pi-rc.xml`
 add Terminal Hot Key
 
 ## Inspiration
-[Novaspirit Tech](https://www.youtube.com/watch?v=gHUjO6MK5fg)
-[Novaspirit Tech](https://www.youtube.com/watch?v=a_q87I4EpLM)
+[Novaspirit Tech Theme](https://www.youtube.com/watch?v=gHUjO6MK5fg)
+[Novaspirit Tech Customization](https://www.youtube.com/watch?v=a_q87I4EpLM)
