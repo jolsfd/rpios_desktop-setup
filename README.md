@@ -19,6 +19,12 @@ change Theme by running `lxappearance`
 * papirus-icon-theme
 * adwita
 
+### Wallpaper
+
+Download Wallpaper into Downloads and copy to /usr/share/rpd-wallpaper/
+
+`sudo cp macish.jpg /usr/share/rpd-wallpaper/`
+
 ## config Files
 
 `sudo nano /boot/config.txt`
