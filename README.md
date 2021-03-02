@@ -2,14 +2,21 @@
 Raspberry Pi OS Desktop setup by jolsfd
 
 ## Software
-
+* Visual Studio Code
+* Firefox ESR
+* Passwordsafe
+* Libre Office
+* Audacity
+* Gimp
 
 ## Theme
 
-## confif Files
+`sudo apt install arc-theme papirus-icon-theme`
 
-`sudo nano /boot/conif.txt`
+* arc-dark
+* papirus-icon-theme
 
-set the minimal clock speed
+## config Files
 
+`sudo nano /boot/config.txt`
 `arm_freq_min=800`
