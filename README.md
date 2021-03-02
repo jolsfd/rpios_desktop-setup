@@ -32,3 +32,7 @@ File to change `/home/"username"/.config/openbox/lxde-pi-rc.xml`
 File with old Hot keys `/etc/xdg/Openbox/lxde-pi-rc.xml`
 
 add Terminal Hot Key
+
+## Inspiration
+[Novaspirit Tech](https://www.youtube.com/watch?v=gHUjO6MK5fg)
+[Novaspirit Tech](https://www.youtube.com/watch?v=a_q87I4EpLM)
