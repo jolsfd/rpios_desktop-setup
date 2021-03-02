@@ -13,6 +13,8 @@ Raspberry Pi OS Desktop setup by jolsfd
 
 `sudo apt install arc-theme papirus-icon-theme`
 
+change Theme by running `lxappearance`
+
 * arc-dark
 * papirus-icon-theme
 
@@ -24,8 +26,8 @@ Raspberry Pi OS Desktop setup by jolsfd
 
 ## Keyboard Hot Keys
 
-dir /home/"username"/.config/openbox/lxde-pi-rc.xml
+dir to change `/home/"username"/.config/openbox/lxde-pi-rc.xml`
 
-dir with old Hot keys /etc/xdg/Openbox/lxde-pi-rc.xml
+dir with old Hot keys `/etc/xdg/Openbox/lxde-pi-rc.xml`
 
 add Terminal Hot Key
