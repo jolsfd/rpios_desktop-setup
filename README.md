@@ -27,8 +27,8 @@ change Theme by running `lxappearance`
 
 ## Keyboard Hot Keys
 
-dir to change `/home/"username"/.config/openbox/lxde-pi-rc.xml`
+File to change `/home/"username"/.config/openbox/lxde-pi-rc.xml`
 
-dir with old Hot keys `/etc/xdg/Openbox/lxde-pi-rc.xml`
+File with old Hot keys `/etc/xdg/Openbox/lxde-pi-rc.xml`
 
 add Terminal Hot Key
