@@ -8,6 +8,7 @@ Raspberry Pi OS Desktop setup by jolsfd
 * Libre Office
 * Audacity
 * Gimp
+* node.js, npm
 
 ## Theme
 
