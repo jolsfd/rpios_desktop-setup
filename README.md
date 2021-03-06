@@ -1,5 +1,5 @@
 # Raspberry Pi OS Desktop Setup
-Raspberry Pi OS Desktop setup by jolsfd
+Raspberry Pi OS 64bit setup by jolsfd
 
 ## Software
 * Visual Studio Code
