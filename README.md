@@ -9,6 +9,8 @@ Raspberry Pi OS Desktop setup by jolsfd
 * Audacity
 * Gimp
 * node.js, npm
+* python3-matplotlib
+* python3-pandas
 
 ## Theme
 
