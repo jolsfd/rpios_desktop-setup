@@ -11,6 +11,7 @@ Raspberry Pi OS 64bit setup by jolsfd
 * node.js, npm
 * python3-matplotlib
 * python3-pandas
+* gnome-keyring
 
 ## Theme
 
