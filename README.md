@@ -35,6 +35,12 @@ Download Wallpaper into Downloads and copy to /usr/share/rpd-wallpaper/
 
 `arm_freq_min=800`
 
+## Default Apps
+
+`sudo apt install lxsession-default-apps`
+
+add `file_manager/command=nemo` in `/.config/lxsession/LXDE-pi/desktop.conf`
+
 ## Keyboard Hot Keys
 
 File to change `/home/"username"/.config/openbox/lxde-pi-rc.xml`
