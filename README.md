@@ -12,6 +12,7 @@ Raspberry Pi OS 64bit setup by jolsfd
 * python3-matplotlib
 * python3-pandas
 * gnome-keyring
+* dos2unix (Convert dos format to unix format)
 
 ## Theme
 
